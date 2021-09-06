@@ -1,6 +1,6 @@
 <h1 align="center">🍃🌻🌿🌏🌱✨🌲🌤<br>hi, nice to meet ya!</h1>
 
-my name is shkula, i'm a **4th year cs student @ uottawa**, and i'm currently...
+my name is shkula *(pronounced shh-kool-ah)*, i'm a **4th year cs student @ uottawa**, and i'm currently...
 
 - working on **a task app** 📝
 - learning **cloud computing fundamentals** 🌥️
